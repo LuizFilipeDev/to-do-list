@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
-import Task from '../model/Task'
-import Category from '../model/Category'
+import Task from '../models/Task'
+import Category from '../models/Category'
 
 import Section from './Section';
 import SelectGroup from './SelectGroup'
